@@ -2,6 +2,10 @@
 @import "./content.css";
 @import "./top-menu.css";
 
+.slider-active {
+	max-width: 100%;
+}
+
 .main {
 	height: 900px;
 	width: 1440px;
@@ -22,12 +26,35 @@
 	align-items: center;
 }
 
-.front-image {
+.front-image--iron-man {
 	height: 720px;
     width: 335px;
     background-image: url(../images/ironman_PNG10.png);
     background-size: cover;
     position: absolute;
-    margin-left: 323px;
-    margin-top: 17px;
+    left: 323px;
+    top: 17px;
+    z-index: 1;
+}
+
+.front-image--spider-man {
+	height: 720px;
+    width: 246px;
+    background-image: url(../images/spiderman-front.png);
+    background-size: cover;
+    position: absolute;
+    left: 377px;
+    top: 17px;
+    z-index: 1;
+}
+
+.front-image--cap-front {
+	height: 720px;
+    width: 346px;
+    background-image: url(../images/cap-front.png);
+    background-size: cover;
+    position: absolute;
+    left: 255px;
+    top: 17px;
+    z-index: 1;
 }

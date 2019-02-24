@@ -20,6 +20,18 @@
     color: rgb(224, 61, 36);
     margin-bottom: 100px;
 }
+.hero-name__spider-man {
+	font-size: 147px;
+    font-weight: 600;
+    color: rgb(224, 61, 36);
+    margin-bottom: 100px;
+}
+.hero-name__cap {
+	font-size: 147px;
+    font-weight: 600;
+    color: rgb(224, 61, 36);
+    margin-bottom: 100px;
+}
 
 .hero-count {
 	color: rgb(176, 175, 180);

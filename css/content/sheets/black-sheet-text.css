@@ -2,9 +2,12 @@
 	margin-right: auto;
 	font-size: 147px;
     font-weight: 600;
-    letter-spacing: 24px;
     color: rgb(224, 61, 36);
     margin-top: 50px;
+}
+
+.america {
+    letter-spacing: 15px;
 }
 
 .some-text {
