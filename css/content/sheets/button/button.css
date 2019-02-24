@@ -1,0 +1,13 @@
+.black-wrap--button {
+	height: 50px;
+	width: 250px;
+	background-color: rgb(225, 60, 35);
+	border: 1px solid rgb(161, 51, 36);
+	border-radius: 4px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	color: rgb(244, 193, 186);
+	font-size: 1.5em;
+	margin-top: 100px;
+}

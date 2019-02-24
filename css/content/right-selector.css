@@ -1,0 +1,19 @@
+.first-point {
+	margin-top: 260px;
+}
+
+.third-point {
+	margin-bottom: 260px;
+}
+
+.content-selector__point {
+	height: 5px;
+	width: 5px;
+	border: 1px solid rgb(119, 120, 127);
+	border-radius: 50%;
+}
+
+.content-selector__point:hover {
+	color: rgb(203, 203, 207);
+}
+

@@ -1,0 +1,16 @@
+@import "./content/main.css";
+@import "./content/left-selector.css";
+@import "./content/right-selector.css";
+
+
+.content {
+	height: 100%;
+	width: 100%;
+	display: flex;
+}
+
+.content-main {
+	width: 100%;
+	height: 90%;
+	display: flex;
+}
