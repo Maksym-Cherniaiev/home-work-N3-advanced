@@ -6,7 +6,6 @@
 	width: 100%;
 	background: linear-gradient(to bottom right, rgba(52, 52, 64, 0.9), rgba(26, 25, 31, 1)), url("../../../images/ironman-front-cut.jpg");
 	background-size: cover;
-	z-index: -1
 }
 
 .black-wrap {

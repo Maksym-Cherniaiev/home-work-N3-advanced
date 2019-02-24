@@ -24,11 +24,10 @@
 
 .front-image {
 	height: 720px;
-    width: 320px;
+    width: 335px;
     background-image: url(../images/ironman_PNG10.png);
     background-size: cover;
     position: absolute;
-    margin-left: 440px;
-    margin-top: 177px;
-    z-index: 6;
+    margin-left: 323px;
+    margin-top: 17px;
 }
